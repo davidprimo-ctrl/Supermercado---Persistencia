@@ -2,3 +2,5 @@
 
 Universidad de Ibagué - Gestor de Inventario Supermercado - Facultad de Ingeniería
 - David Santiago Primo Riveros
+- Juan Pablo Berbesi
+- Sebastian Rodriguez Martinez
